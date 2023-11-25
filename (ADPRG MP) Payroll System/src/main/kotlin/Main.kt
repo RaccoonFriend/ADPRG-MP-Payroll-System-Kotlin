@@ -169,10 +169,10 @@ fun computeDailySalary(): DailyLog {
             salary += computeOvertime(dl)
         }
 
-        //emergency testing prints
+        /*emergency testing prints
         println("hourlyRate: $hourlyRate")
         println("computerPremiumPay: ${computePremiumPay(dl, hourlyRate)}")
-        println("computerOvertime: ${computeOvertime(dl)}")
+        println("computerOvertime: ${computeOvertime(dl)}")*/
 
     }
     val newLog = DailyLog(
