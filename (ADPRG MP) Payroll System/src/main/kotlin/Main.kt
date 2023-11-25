@@ -1,3 +1,9 @@
+********************
+Last names: Ambrosio, Cipriaso, De Veyra, Iral II
+Language: Kotlin
+Paradigm(s): Functional, Object Oriented
+********************
+
 import java.util.*
 import kotlin.collections.ArrayList
 
